@@ -1,3 +1,8 @@
+This project is the first project of my Udacity’s C++ NanoDegree program. 
+The objective of the project is to find the shortest path between two points on the map.
+This project uses the A*/star Algorithm to find the optimized shortest path.
+The Map and the Path is generated using IO2D Library. 
+
 # Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
